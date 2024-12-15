@@ -94,7 +94,7 @@ Responsible AI ensures that AI systems are developed and deployed ethically, min
 ## Authors
 
 ### Mahmoud Boghdady
-   [https://www.linkedin.com/in/mahmoud-boghdady-msc-pmp%C2%AE-6b694033/]([https://www.linkedin.com/in/mahmoud-boghdady-msc-pmp%C2%AE-6b694033/])
+   [https://www.linkedin.com/in/mahmoud-boghdady-msc-pmp%C2%AE-6b694033/](https://www.linkedin.com/in/mahmoud-boghdady-msc-pmp%C2%AE-6b694033/)
 
 ### Abu Bakar Rasheed
 [https://www.linkedin.com/in/abu-bakar-rasheed-9b65b616/](https://www.linkedin.com/in/abu-bakar-rasheed-9b65b616/)
